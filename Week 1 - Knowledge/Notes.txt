@@ -1,0 +1,6 @@
+Knowledge:
+- Knowledge based agents
+    - Agents that reason by operating in an internal repository of knowledge
+- Propositional Logic
+    - Proposition Symbols: P, Q, R
+        - Each symbol represents a fact about the world.

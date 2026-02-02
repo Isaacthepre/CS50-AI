@@ -1,0 +1,50 @@
+All about Artificial Intelligence
+
+Main topic: Search
+    Driving directions
+    Playing a game
+Requires knowledge to draw conclusions
+Uncertainty, this is when it only has a specific probability of confidence on an event.
+Optimization, there are multiple ways to solve a problem but what is the best way
+Learning : Machine learning, having data means we can learn from it and experience to get better at doing things based on greater access to data
+Neural Networks : draws from the logic of the human brain
+Language : how can computers understand normal languages such as english
+
+Search:
+Terminology:
+    Agent
+        An entity which perceives its environment and acts upon this environment
+    State
+        A configuration of the agent in ins environment
+    Initial State
+        The state which the agent begins with / in
+    Actions
+        Choices that can be made in a state
+            Actions(s) returns the set of actions that can be executed in state s
+    Transition Model
+        A description of what state results from performing any available action
+            Result(s, a) returns the state resulting from performing action a in state s
+    State Space
+        The set of all states reachable from the initial state by any sequence of actions
+            Often represented on a graph
+    Goal Test
+        A way to determine whether a given state is a goal state
+    Path Cost
+        Numerical cost associated with a given path
+    Solution
+        The method and path followed to reach the goal
+    Optimal Solution
+        A solution with teh lowest path cost among all the solutions
+    Search Problems:
+        Initial State
+        Actions
+        Transition Model
+        Goal Test
+        Path Cost Function
+    Node
+        A data structure that keeps track of
+            A state
+            A parent (node that generated this code)
+            An action (action applied to parent to get node)
+            A path cost (from initial state to node)
+                Initial state has no parent
