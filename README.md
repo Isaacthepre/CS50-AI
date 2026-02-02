@@ -3,5 +3,5 @@
 
 ## Week 0 is for search algorithms
 ## Week 1 is for knowledge algorithms
-
-End of my amazing README!
+**
+End of my amazing README!**
