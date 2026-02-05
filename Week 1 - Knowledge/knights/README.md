@@ -48,9 +48,3 @@ Success will be identified when the code is able to evaluate the knowledge base 
 ### Troubleshooting Techniques:
 - Use print statements to identify what the code considers the logic as in each step.
 - Go step by step through the logic adding more each time to identify where it breaks.
-
-## Answers:
-P0: A is a Knave
-P1: A is a Knave, B is a Knight
-P2: A is a Knave, B is a Knight
-P3: A is a Knight, B is a Knave, C is a Knight
