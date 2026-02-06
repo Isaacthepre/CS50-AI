@@ -31,7 +31,6 @@ Success will be identified when the code is able to evaluate the knowledge base 
   - A single character can not be both a knight and a knave.
   - Each character will always be either a knight or a knave.
 - Identify the given knowledge from the problems
-- Use this information to identify what the information tells us.
   - P0:
     - If A is a knight, it is both a knight and a knave.
     - If A is a knave, then it is not both a knight and a knave.
