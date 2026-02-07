@@ -43,14 +43,14 @@ Success will be identified when the code is able to evaluate the knowledge base 
     - If B is a knight, then either A is a knight and B is a knave, or A is a knave and B is a knight.
     - If B is a knave, then either A is not a knight while B is not a knave or A is not a knave while B is not a knight.
   - P3:
-    - If A says that they are a knight then:
+    - If A says "I am a knight" then:
       - If A is a knight, then they are a knight.
       - If A is a knave, then they are not a knight.
-    - If A says that they are a knave:
+    - If A says "I am a knave" then:
       - If A is a knight, then they are a knave.
       - If A is a knave, then they are not a knave.
     - If A is a knight, then A could be either a knight or a knave.
-    - If A is a knight, then a could be either a knight or a knave.
+    - If A is a knave, then A is either not a knight or not a knave.
     - If B is a knight, then A said that they were a knave and C is a knave.
     - If B is a knave, then A did not say that they were a knave, and C is not a knave.
     - If C is a knight, then A is a knight.
